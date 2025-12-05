@@ -2,20 +2,21 @@
 
 ## 🚀 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>UCSD student</li>
-        <li>Data science / machine learning enthusiast</li>
-        <li>Building projects and learning every day</li>
-      </ul>
-    </td>
-    <td align="right">
-      <img src="./Cat%20Love%20GIF%20by%20Scaler.gif" alt="Cat Love GIF" width="220" />
-    </td>
-  </tr>
-</table>
+<div>
+  <img src="./Cat%20Love%20GIF%20by%20Scaler.gif"
+       alt="Cat Love GIF"
+       width="220"
+       align="right" />
+
+  <ul>
+    <li>UCSD student</li>
+    <li>Data science / machine learning enthusiast</li>
+    <li>Building projects and learning every day</li>
+  </ul>
+</div>
+
+<br clear="both" />
+
 
 ## 🔧 My Skills
 <p align="left">
