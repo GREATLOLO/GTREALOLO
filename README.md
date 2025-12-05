@@ -1,9 +1,21 @@
 # 👋 Hi, I'm KEQING LI
 
 ## 🚀 About Me
-- UCSD student  
-- Data science / machine learning enthusiast  
-- Building projects and learning every day  
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>UCSD student</li>
+        <li>Data science / machine learning enthusiast</li>
+        <li>Building projects and learning every day</li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="./Cat%20Love%20GIF%20by%20Scaler.gif" alt="Cat Love GIF" width="220" />
+    </td>
+  </tr>
+</table>
 
 ## 🔧 My Skills
 <p align="left">
@@ -29,4 +41,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
   </a>
 </p>
-
